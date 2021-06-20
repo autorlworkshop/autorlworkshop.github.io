@@ -372,7 +372,7 @@ acknowledgements: ""
   </div>
   <div class="col-xs-6 col-lg-3 people">
     <a href="https://www.tnt.uni-hannover.de/en/staff/lindauer/">
-      <img class="people-pic" src="{{ "/static/img/people/marius.jpeg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/static/img/people/marius.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://www.tnt.uni-hannover.de/en/staff/lindauer/">Marius Lindauer</a>
