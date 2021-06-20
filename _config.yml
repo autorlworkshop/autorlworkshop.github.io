@@ -1,0 +1,11 @@
+title: AutoRL
+description: A NeurIPS 2021 Workshop Proposal.
+baseurl: "" # the subpath of your site, e.g. /blog
+
+# Build settings
+markdown: kramdown
+include: ['_pages']
+ga_id: UA-144588579-1
+
+domain: autorlworkshop.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: https://autorlworkshop.github.io  # the base hostname and protocol for your site, e.g. http://example.com
