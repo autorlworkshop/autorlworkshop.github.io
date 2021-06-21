@@ -17,7 +17,7 @@ acknowledgements: ""
     <br>
     <br>
     <p>
-        Reinforcement learning (RL) . 
+        The past few years has seen a surge of interest in reinforcement learning, (RL), with a series of breakthroughs using RL in games and robotics. However, many of these successes rely on a significant engineering effort, thus are often a challenge to generalize or even reproduce. Several recent works have demonstrated that RL algorithms are brittle to seemingly mundane design choices. Thus, it is often a significant challenge to effectively apply RL in practice, limiting its potential impact and narrowing its accessibility. This workshop seeks to bring together work from several communities attempting to automate the design of RL algorithms.
     </p>
     <p>
     <p style="color:#c31;"><b>Update:</b></p> <b>The workshop is still under review :)</b>. 
