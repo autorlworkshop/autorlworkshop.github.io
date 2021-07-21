@@ -271,7 +271,7 @@ acknowledgements: ""
       <img class="people-pic" src="{{ "/static/img/people/roberta.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="https://rraileanu.github.io/">Roberta Raileneau</a>
+      <a href="https://rraileanu.github.io/">Roberta Raileanu</a>
       <h6>New York University</h6>
     </div>
   </div>
