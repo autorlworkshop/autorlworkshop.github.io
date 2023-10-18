@@ -278,8 +278,6 @@ acknowledgements: ""
       <h6>New York University</h6>
     </div>
   </div>
-<!--  <div class="col-xs-6 col-lg-3 people">    
-  </div>-->
 
   <div class="col-xs-6 col-lg-3 people">
     <a href="https://ai.stanford.edu/~cbfinn/">
@@ -289,6 +287,9 @@ acknowledgements: ""
       <a href="https://ai.stanford.edu/~cbfinn/">Chelsea Finn</a>
       <h6>Stanford University</h6>
     </div>
+  </div>
+
+  <div class="col-xs-6 col-lg-3 people">    
   </div>
 
   <div class="col-xs-6 col-lg-3 people">
@@ -367,6 +368,9 @@ acknowledgements: ""
   </div>
 
   <div class="col-xs-6 col-lg-3 people">
+  </div>
+
+  <div class="col-xs-6 col-lg-3 people">
     <a href="https://ml.informatik.uni-freiburg.de/people/rajan/index.html">
       <img class="people-pic" src="{{ "/static/img/people/raghu.jpeg" | prepend:site.baseurl }}">
     </a>
@@ -376,16 +380,13 @@ acknowledgements: ""
     </div>
   </div>
 
-  <!--<div class="col-xs-6 col-lg-3 people">
-  </div>-->
-
   <div class="col-xs-6 col-lg-3 people">
     <a href="https://www.afaust.info/">
       <img class="people-pic" src="{{ "/static/img/people/aleksandra.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://www.afaust.info/">Aleksandra Faust</a>
-      <h6>Google Brain</h6>
+      <h6>DeepMind</h6>
     </div>
   </div>
 </div>
