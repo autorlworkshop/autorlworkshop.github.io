@@ -2,7 +2,7 @@
 layout: project
 urltitle:  "Automated Reinforcement Learning (AutoRL)"
 title: "Automated Reinforcement Learning (AutoRL)"
-categories: workshop, iclr, autrl, reinforcement learning, automl, 2024
+categories: workshop, iclr, autorl, reinforcement learning, automl, 2024
 permalink: /
 bibtex: true
 paper: true
@@ -371,6 +371,16 @@ acknowledgements: ""
   </div>
 
   <div class="col-xs-6 col-lg-3 people">
+  </div>
+
+  <div class="col-xs-6 col-lg-3 people">
+    <a href="https://ml.informatik.uni-freiburg.de/people/rajan/index.html">
+      <img class="people-pic" src="{{  | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://ml.informatik.uni-freiburg.de/people/rajan/index.html"></a>
+      <h6></h6>
+    </div>
   </div>
 
   <div class="col-xs-6 col-lg-3 people">
