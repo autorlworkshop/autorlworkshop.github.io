@@ -367,14 +367,13 @@ acknowledgements: ""
     </div>
   </div>
 
-  <div class="col-xs-6 col-lg-3 people">
+<!--   <div class="col-xs-6 col-lg-3 people"> -->
   </div>
 
   <div class="col-xs-6 col-lg-3 people">
   </div>
 
-  <br>
-
+<div class="row">
   <div class="col-xs-6 col-lg-3 people">
     <a href="https://ml.informatik.uni-freiburg.de/people/rajan/index.html">
       <img class="people-pic" src="{{ "/static/img/people/raghu.jpeg" | prepend:site.baseurl }}">
