@@ -57,55 +57,62 @@ acknowledgements: ""
     <table class="table table-striped">
       <tbody>
         <tr>
-          <td>08:45 - 09:00 AM</td>
+          <td>8:45 - 9:00 AM</td>
           <td>
-            Opening remarks
+            Coffee & Opening
           </td>
         </tr>
         <tr>
-          <td>09:00 - 09:30 AM</td>
+          <td>9:00 - 9:30 AM</td>
           <td>
             Invited talk:  <br/>
             <i> X </i>
           </td>
         </tr>
         <tr>
-          <td>09:30 - 10:00 AM</td>
+          <td>9:30 - 9:45 AM</td>
           <td>
-            Invited talk:  <br/>
+            Contributed talk:  <br/>
             <i> X </i>
           </td>
         </tr>
         <tr>
-          <td>10:00 - 10:30 AM</td>
+          <td>9:45 - 10:00 AM</td>
           <td>
-            Contributed Talk: Paper X <br/>
+            Coffee Break <br/>
             <i> X, Y </i>
           </td>
         </tr>
         <tr>
-          <td>10:30 - 11:30 AM</td>
+          <td>10:00 - 11:00 AM</td>
           <td>
-            Coffee break and Poster Session 
+            Poster Session 
+          </td>
+        </tr>
+        <tr>
+          <td>11:00 - 11:30 AM</td>
+          <td>
+            Invited Talk: <br/>
+            <i> X </i>
           </td>
         </tr>
         <tr>
           <td>11:30 - 12:00 PM</td>
           <td>
-            Invited Talk <br/>
+            Invited Talk: <br/>
             <i> X </i>
           </td>
         </tr>
         <tr>
-          <td>12:30 - 1:30 PM</td>
+          <td>12:00 - 1:30 PM</td>
           <td>
-            Lunch and Breakout Sessions
+            Lunch Break
           </td>
         </tr>
         <tr>
           <td>1:30 - 2:00 PM</td>
           <td>
-            Invited talk: <br/>
+            Invited talk: X <br/>
             <i> X </i>
           </td>
         </tr>
@@ -117,44 +124,40 @@ acknowledgements: ""
           </td>
         </tr>
         <tr>
-          <td>2:30 - 3:30 PM</td>
+          <td>2:30 - 2:45 PM</td>
           <td>
-            Spotlights
-            <ul>
-            <li>Paper 1<br>
-            (X, Y, Z)</li>
-            <li>Paper 2<br>
-            (X, Y, Z)
-            </li>
-            <li>Paper 3<br>
-            (X, Y, Z)
-            </li>
-            </ul>
-          </td>
-        </tr>
-        <tr>
-          <td>3:30 - 4:30 PM</td>
-          <td>
-            Coffee break and poster session 2
-          </td>
-        </tr>
-        <tr>
-          <td>4:30 - 5:00 PM</td>
-          <td>
-            Invited Talk <br/>
+            Contributed Talk: <br/>
             <i> X </i>
           </td>
         </tr>
         <tr>
-          <td>5:00 - 5:30 PM</td>
+          <td>2:45 - 3:15 PM</td>
           <td>
-            Invited Talk <br/>
+            Breakout Session
+          </td>
+        </tr>
+        <tr>
+          <td>3:15 - 3:30 PM</td>
+          <td>
+            Coffee Break
+          </td>
+        </tr>
+        <tr>
+          <td>3:30 - 4:00 PM</td>
+          <td>
+            Invited Talk: <br/>
             <i> X </i>
           </td>
         </tr>
         <tr>
-          <td>5:30 - 6:30 PM</td>
+          <td>4:00 - 5:00 PM</td>
           <td> Panel Discussion </td>
+        </tr>
+        <tr>
+          <td>5PM</td>
+          <td>
+            Closing Remarks
+          </td>
         </tr>
       </tbody>
     </table>
@@ -221,7 +224,7 @@ acknowledgements: ""
         Submissions should be uploaded on OpenReview: <a class="red" href="https://openreview.net/">AutoRL submission link</a>
       </p>
       <p>
-        In case of any issues or questions, feel free to email the workshop organizers at: <a href="mailto:autorlworkshop@gmail.com" class="red">autorlworkshop@gmail.com</a>.
+        In case of any issues or questions, feel free to email the workshop organizers at: <a href="mailto:autorlworkshop@ai.uni-hannover.de" class="red">autorlworkshop@ai.uni-hannover.de</a>.
       </p>
 
   </div>
