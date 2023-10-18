@@ -178,19 +178,27 @@ acknowledgements: ""
       <tbody>
         <tr>
           <td>Paper Submission Deadline</td>
-          <td>early October, 2021</td>
+          <td>03.02.2024 AOE</td>
         </tr>
         <tr>
           <td>Decision Notifications</td>
-          <td>late October, 2021 </td>
+          <td>03.03.2024</td>
         </tr>
         <tr>
-          <td>Camera Ready Paper Deadline</td>
-          <td>late November, 2021 </td>
+          <td>Deadline for complimentary registration applications</td>
+          <td>10.03.2024</td>
+        </tr>
+        <tr>
+          <td>Camera Ready Paper Deadline & complimentary registration notifications</td>
+          <td>17.03.2024</td>
+        </tr>
+        <tr>
+          <td>Paper Video Submission Deadline</td>
+          <td>15.04.2024</td>
         </tr>
         <tr>
           <td>Workshop</td>
-          <td>December, 2021</td>
+          <td>04.2024</td>
         </tr>
       </tbody>
     </table>
@@ -218,7 +226,7 @@ acknowledgements: ""
           </ul>
       </p>
       <p>We welcome review and positional papers that may foster discussions. 
-       Note that as per ICLR guidelines, we don't accept works previously published in other conferences on machine learning, but are open to works that are currently under submission to a conference (such as ICLR 2022).</p>
+       Note that as per ICLR guidelines, we don't accept works previously published in other conferences on machine learning, but are open to works that are currently under submission to a conference (such as ICML 2024).</p>
       
       <p>
         Submissions should be uploaded on OpenReview: <a class="red" href="https://openreview.net/">AutoRL submission link</a>
