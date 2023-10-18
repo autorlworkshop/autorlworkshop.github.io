@@ -373,15 +373,7 @@ acknowledgements: ""
   <div class="col-xs-6 col-lg-3 people">
   </div>
 
-  <div class="col-xs-6 col-lg-3 people">
-    <a href="https://ml.informatik.uni-freiburg.de/people/rajan/index.html">
-      <img class="people-pic" src="{{  | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="https://ml.informatik.uni-freiburg.de/people/rajan/index.html"></a>
-      <h6></h6>
-    </div>
-  </div>
+  <br>
 
   <div class="col-xs-6 col-lg-3 people">
     <a href="https://ml.informatik.uni-freiburg.de/people/rajan/index.html">
