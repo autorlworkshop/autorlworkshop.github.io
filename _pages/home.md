@@ -338,7 +338,7 @@ acknowledgements: ""
   </div>
 </div>
 <div class="row">
-  <div class="col-xs-6 col-lg-3 people">
+  <div class="col-xs-5 col-lg-3 people">
     <a href="https://www.tnt.uni-hannover.de/staff/eimer/">
       <img class="people-pic" src="{{ "/static/img/people/theresa.png" | prepend:site.baseurl }}">
     </a>
@@ -347,7 +347,7 @@ acknowledgements: ""
       <h6>Leibniz Universität Hannover</h6>
     </div>
   </div>
-  <div class="col-xs-6 col-lg-3 people">
+  <div class="col-xs-5 col-lg-3 people">
     <a href="http://vu-nguyen.org/">
       <img class="people-pic" src="{{ "/static/img/people/vu.png" | prepend:site.baseurl }}">
     </a>
@@ -357,7 +357,7 @@ acknowledgements: ""
     </div>
   </div>
   
-  <div class="col-xs-6 col-lg-3 people">
+  <div class="col-xs-5 col-lg-3 people">
     <a href="https://https://andrebiedenkapp.github.io/">
       <img class="people-pic" src="{{ "/static/img/people/andre.png" | prepend:site.baseurl }}">
     </a>
