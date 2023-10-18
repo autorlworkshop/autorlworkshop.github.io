@@ -286,7 +286,7 @@ acknowledgements: ""
     </a>
     <div class="people-name">
       <a href="https://jparkerholder.github.io">Jack Parker-Holder</a>
-      <h6>University of Oxford</h6>
+      <h6>DeepMind</h6>
     </div>
   </div>
 
@@ -296,7 +296,7 @@ acknowledgements: ""
     </a>
     <div class="people-name">
       <a href="https://zhongwen.one/">Zhongwen Xu</a>
-      <h6>DeepMind</h6>
+      <h6>Sea AI Lab</h6>
     </div>
   </div>
 </div>
