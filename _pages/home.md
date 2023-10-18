@@ -2,7 +2,7 @@
 layout: project
 urltitle:  "Automated Reinforcement Learning (AutoRL)"
 title: "Automated Reinforcement Learning (AutoRL)"
-categories: workshop, neurips, autrl, reinforcement learning, automl, 2021
+categories: workshop, iclr, autrl, reinforcement learning, automl, 2024
 permalink: /
 bibtex: true
 paper: true
@@ -13,7 +13,7 @@ acknowledgements: ""
   <div class="col-xs-12 col-md-7">
     <h1>Automated Reinforcement Learning (AutoRL)</h1>
     <br>
-    <h4>December, 2021 // NeurIPS Workshop</h4>
+    <h4>April, 2024 // ICLR Workshop</h4>
     <br>
     <br>
     <p>
@@ -43,11 +43,11 @@ acknowledgements: ""
   <div class="col-xs-12">
     <h2>Official schedule</h2>
     <br/>
-    <p> All times listed below are in Eastern Time (ET).  </p> 
+    <p> All times listed below are in Central European Summer Time (CEST).  </p> 
     <p>Other important links:</p>
      <ul>
-              <li><b>GatherTown</b>: <a href="https:/neurips.cc">Link</a></li>
-              <li><b>Zoom</b>: <a href="https:/neurips.cc">Link</a></li>
+<!--               <li><b>GatherTown</b>: <a href="https:/iclr.cc">Link</a></li> -->
+              <li><b>Zoom</b>: <a href="https:/iclr.cc">Link</a></li>
     </ul>
   </div>
 </div>
@@ -206,7 +206,7 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12">
     <p>
-      We invite both short (4 page) and long (8 page) anonymized submissions in the <a href="https://neurips.cc">NeurIPS LaTeX format</a> that develop algorithms, benchmarks, and ideas to allow reinforcement learning agents to learn more effectively by making self-supervised predictions about their environment. More concretely, we welcome submissions around, but not necessarily limited to, the following broad questions: 
+      We invite both short (4 page) and long (8 page) anonymized submissions in the <a href="https://iclr.cc">ICLR LaTeX format</a> that develop algorithms, benchmarks, and ideas to allow reinforcement learning agents to learn more effectively by making self-supervised predictions about their environment. More concretely, we welcome submissions around, but not necessarily limited to, the following broad questions: 
     </p>
     <p>
           <ul>
@@ -215,7 +215,7 @@ acknowledgements: ""
           </ul>
       </p>
       <p>We welcome review and positional papers that may foster discussions. 
-       Note that as per NeurIPS guidelines, we don't accept works previously published in other conferences on machine learning, but are open to works that are currently under submission to a conference (such as ICLR 2022).</p>
+       Note that as per ICLR guidelines, we don't accept works previously published in other conferences on machine learning, but are open to works that are currently under submission to a conference (such as ICLR 2022).</p>
       
       <p>
         Submissions should be uploaded on OpenReview: <a class="red" href="https://openreview.net/">AutoRL submission link</a>
@@ -240,15 +240,6 @@ acknowledgements: ""
 </div>
 <div class="row">
   <div class="col-xs-6 col-lg-3 people">
-    <a href="https://www.afaust.info/">
-      <img class="people-pic" src="{{ "/static/img/people/aleksandra.png" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="https://www.afaust.info/">Aleksandra Faust</a>
-      <h6>Google Brain</h6>
-    </div>
-  </div>
-  <div class="col-xs-6 col-lg-3 people">
     <a href="https://www.natolambert.com/">
       <img class="people-pic" src="{{ "/static/img/people/nathan.png" | prepend:site.baseurl }}">
     </a>
@@ -258,14 +249,15 @@ acknowledgements: ""
     </div>
   </div>  
     <div class="col-xs-6 col-lg-3 people">
-    <a href="https://johansamir.github.io/johan0730.github.io/">
-      <img class="people-pic" src="{{ "/static/img/people/johan.jpeg" | prepend:site.baseurl }}">
+    <a href="https://www.robots.ox.ac.uk/~xwan/">
+      <img class="people-pic" src="{{ "/static/img/people/xingchen.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="https://johansamir.github.io/johan0730.github.io/">Johan S. Obando-Ceron</a>
-      <h6>U. Autonoma de Occidente</h6>
+      <a href="https://www.robots.ox.ac.uk/~xwan/">Xingchen Wan</a>
+      <h6>University of Oxford</h6>
     </div>
   </div>
+  
   <div class="col-xs-6 col-lg-3 people">
     <a href="https://rraileanu.github.io/">
       <img class="people-pic" src="{{ "/static/img/people/roberta.png" | prepend:site.baseurl }}">
@@ -275,18 +267,29 @@ acknowledgements: ""
       <h6>New York University</h6>
     </div>
   </div>
-  <div class="col-xs-6 col-lg-3 people">
-    
+  <div class="col-xs-6 col-lg-3 people">    
   </div>
+
   <div class="col-xs-6 col-lg-3 people">
-    <a href="http://webdocs.cs.ualberta.ca/~whitem/">
-      <img class="people-pic" src="{{ "/static/img/people/martha.png" | prepend:site.baseurl }}">
+    <a href="https://ai.stanford.edu/~cbfinn/">
+      <img class="people-pic" src="{{ "/static/img/people/chelsea.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="http://webdocs.cs.ualberta.ca/~whitem/">Martha White</a>
-      <h6>University of Alberta</h6>
+      <a href="https://ai.stanford.edu/~cbfinn/">Chelsea Finn</a>
+      <h6>Stanford University</h6>
     </div>
   </div>
+
+  <div class="col-xs-6 col-lg-3 people">
+    <a href="https://jparkerholder.github.io">
+      <img class="people-pic" src="{{ "/static/img/people/jack.jpeg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://jparkerholder.github.io">Jack Parker-Holder</a>
+      <h6>University of Oxford</h6>
+    </div>
+  </div>
+
   <div class="col-xs-6 col-lg-3 people">
     <a href="https://zhongwen.one/">
       <img class="people-pic" src="{{ "/static/img/people/zhongwen.jpeg" | prepend:site.baseurl }}">
@@ -297,6 +300,7 @@ acknowledgements: ""
     </div>
   </div>
 </div>
+
 
 <hr />
 
@@ -340,15 +344,17 @@ acknowledgements: ""
       <h6>Amazon Research</h6>
     </div>
   </div>
+  
   <div class="col-xs-6 col-lg-3 people">
-    <a href="https://jparkerholder.github.io">
-      <img class="people-pic" src="{{ "/static/img/people/jack.jpeg" | prepend:site.baseurl }}">
+    <a href="https://https://andrebiedenkapp.github.io/">
+      <img class="people-pic" src="{{ "/static/img/people/andre.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="https://jparkerholder.github.io">Jack Parker-Holder</a>
-      <h6>University of Oxford</h6>
+      <a href="https://https://andrebiedenkapp.github.io/">André Biedenkapp</a>
+      <h6>University of Freiburg</h6>
     </div>
   </div>
+
   <div class="col-xs-6 col-lg-3 people">
     <a href="https://ml.informatik.uni-freiburg.de/people/rajan/index.html">
       <img class="people-pic" src="{{ "/static/img/people/raghu.jpeg" | prepend:site.baseurl }}">
@@ -359,24 +365,15 @@ acknowledgements: ""
     </div>
   </div>
   <div class="col-xs-6 col-lg-3 people">
-    
   </div>
+
   <div class="col-xs-6 col-lg-3 people">
-    <a href="https://www.robertocalandra.com/about/">
-      <img class="people-pic" src="{{ "/static/img/people/roberto.jpeg" | prepend:site.baseurl }}">
+    <a href="https://www.afaust.info/">
+      <img class="people-pic" src="{{ "/static/img/people/aleksandra.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="https://www.robertocalandra.com/about/">Roberto Calandra</a>
-      <h6>Facebook AI Research</h6>
-    </div>
-  </div>
-  <div class="col-xs-6 col-lg-3 people">
-    <a href="https://www.tnt.uni-hannover.de/en/staff/lindauer/">
-      <img class="people-pic" src="{{ "/static/img/people/marius.png" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="https://www.tnt.uni-hannover.de/en/staff/lindauer/">Marius Lindauer</a>
-      <h6>Leibniz Universität Hannover</h6>
+      <a href="https://www.afaust.info/">Aleksandra Faust</a>
+      <h6>Google Brain</h6>
     </div>
   </div>
 </div>
@@ -412,8 +409,8 @@ acknowledgements: ""
 <div class="row">
   <div class="col-md-12">
     <ol>
-<li>Finn, Chelsea, Ian Goodfellow, and Sergey Levine. "Unsupervised learning for physical interaction through video prediction." NeurIPS (2016).</li>   
-<li>Ha, David, and Jürgen Schmidhuber. "Recurrent world models facilitate policy evolution." NeurIPS (2018). </li>
+<!--<li>Finn, Chelsea, Ian Goodfellow, and Sergey Levine. "Unsupervised learning for physical interaction through video prediction." NeurIPS (2016).</li>   
+<li>Ha, David, and Jürgen Schmidhuber. "Recurrent world models facilitate policy evolution." NeurIPS (2018). </li>-->
 
 </ol>
   </div>
