@@ -278,8 +278,8 @@ acknowledgements: ""
       <h6>New York University</h6>
     </div>
   </div>
-  <div class="col-xs-6 col-lg-3 people">    
-  </div>
+<!--  <div class="col-xs-6 col-lg-3 people">    
+  </div>-->
 
   <div class="col-xs-6 col-lg-3 people">
     <a href="https://ai.stanford.edu/~cbfinn/">
@@ -375,8 +375,9 @@ acknowledgements: ""
       <h6>University of Freiburg</h6>
     </div>
   </div>
-  <div class="col-xs-6 col-lg-3 people">
-  </div>
+
+  <!--<div class="col-xs-6 col-lg-3 people">
+  </div>-->
 
   <div class="col-xs-6 col-lg-3 people">
     <a href="https://www.afaust.info/">
