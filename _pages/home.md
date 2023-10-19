@@ -339,39 +339,14 @@ acknowledgements: ""
 </div>
 <div class="row">
   <div class="col-xs-6 col-lg-3 people">
-    <a href="https://www.tnt.uni-hannover.de/staff/eimer/">
+    <a href="https://www.ai.uni-hannover.de/de/institut/team/eimer/">
       <img class="people-pic" src="{{ "/static/img/people/theresa.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="https://www.tnt.uni-hannover.de/staff/eimer/">Theresa Eimer</a>
+      <a href="https://www.ai.uni-hannover.de/de/institut/team/eimer/">Theresa Eimer</a>
       <h6>Leibniz Universität Hannover</h6>
     </div>
   </div>
-  <div class="col-xs-6 col-lg-3 people">
-    <a href="http://vu-nguyen.org/">
-      <img class="people-pic" src="{{ "/static/img/people/vu.png" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name people">
-      <a href="http://vu-nguyen.org/">Vu Nguyen</a>
-      <h6>Amazon Research</h6>
-    </div>
-  </div>
-  
-  <div class="col-xs-6 col-lg-3 people">
-    <a href="https://https://andrebiedenkapp.github.io/">
-      <img class="people-pic" src="{{ "/static/img/people/andre.png" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="https://https://andrebiedenkapp.github.io/">André Biedenkapp</a>
-      <h6>University of Freiburg</h6>
-    </div>
-  </div>
-
-<!--  <div class="col-xs-6 col-lg-3 people">
-  </div>
-
-  <div class="col-xs-6 col-lg-3 people">
-  </div>-->
 
   <div class="col-xs-6 col-lg-3 people">
     <a href="https://ml.informatik.uni-freiburg.de/people/rajan/index.html">
@@ -383,6 +358,32 @@ acknowledgements: ""
     </div>
   </div>
 
+  <div class="col-xs-6 col-lg-3 people">
+    <a href="https://andrebiedenkapp.github.io/">
+      <img class="people-pic" src="{{ "/static/img/people/andre.png" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://andrebiedenkapp.github.io/">André Biedenkapp</a>
+      <h6>University of Freiburg</h6>
+    </div>
+  </div>
+
+<!--  <div class="col-xs-6 col-lg-3 people">
+  </div>
+
+  <div class="col-xs-6 col-lg-3 people">
+  </div>-->
+
+  <div class="col-xs-6 col-lg-3 people">
+    <a href="http://vu-nguyen.org/">
+      <img class="people-pic" src="{{ "/static/img/people/vu.png" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name people">
+      <a href="http://vu-nguyen.org/">Vu Nguyen</a>
+      <h6>Amazon Research</h6>
+    </div>
+  </div>
+  
   <div class="col-xs-6 col-lg-3 people">
     <a href="https://www.afaust.info/">
       <img class="people-pic" src="{{ "/static/img/people/aleksandra.png" | prepend:site.baseurl }}">
@@ -433,5 +434,5 @@ acknowledgements: ""
 </div>
 
 <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0)">
-    <h6>Website theme originslly inspired from the <a href="https://github.com/vigilworkshop/vigilworkshop.github.io">VIGIL workshop</a>, stolen from the  the <a href="https://github.com/sslrlworkshop/sslrlworkshop.github.io">SSL-RL workshop</a>. </h6>
+    <h6>Website theme originally inspired from the <a href="https://github.com/vigilworkshop/vigilworkshop.github.io">VIGIL workshop</a>, stolen from the  the <a href="https://github.com/sslrlworkshop/sslrlworkshop.github.io">SSL-RL workshop</a>. </h6>
   </div>
