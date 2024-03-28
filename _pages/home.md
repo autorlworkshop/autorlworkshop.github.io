@@ -17,10 +17,17 @@ acknowledgements: ""
     <br>
     <br>
     <p>
-        The past few years has seen a surge of interest in reinforcement learning, (RL), with a series of breakthroughs using RL in games and robotics. However, many of these successes rely on a significant engineering effort, thus are often a challenge to generalize or even reproduce. Several recent works have demonstrated that RL algorithms are brittle to seemingly mundane design choices. Thus, it is often a significant challenge to effectively apply RL in practice, limiting its potential impact and narrowing its accessibility. This workshop seeks to bring together work from several communities attempting to automate the design of RL algorithms.
+      The past few years has seen a surge of interest in reinforcement learning, , with breakthrough successes of applying RL in games, robotics, chemistry, logistics, nuclear fusion and more.
+      These headlines, however, blur the picture of what remains a brittle technology, with many successes relying on heavily engineered solutions.
+      Indeed, several recent works have demonstrated that RL algorithms are brittle to seemingly mundane design choices . Thus, it is often a significant challenge to effectively apply RL in practice, especially on novel problems, limiting its potential impact and narrowing its accessibility. 
+
+      In this workshop, we want to bring together different communities working on solving these problems. 
+      A variety of distinct sub-communities spanning RL, Meta-Learning and AutoML have been working on making RL work ``out-of-the-box'' in arbitrary settings - this is the AutoRL setting. Recently, with the emergence of LLMs and their in-context learning abilities, they have significantly impacted all these communities. There are LLM agents tackling traditional RL tasks as well as few-shot RL agents increasing efficiency~ and generalization that are also trying to automate RL. LLMs have also been influencing AutoML directly with papers such as OptFormer . However, there is currently little crossover between these communities. As such, we want to create the space to connect them and cross-pollinate ideas automating RL. 
+      We believe closer connections between these communities will ultimately lead to faster and more focused progress on AutoRL and an in-person workshop is the ideal way to allow for greater interaction between them.
+      Through a mixture of diverse expert talks and opportunity for conversation, we hope to emphasize the many facets of current AutoRL approaches and where collaboration across fields is possible. 
     </p>
     <p>
-    <p style="color:#c31;"><b>Update:</b></p> <b>The workshop is still under review :)</b>. 
+    <p style="color:#c31;"><b>Update:</b></p> <b>The workshop has been accepted at ICML 2024 to be held in Vienna</b>. 
        </p>
   </div>
   <div class="col-md-1 hidden-xs">
