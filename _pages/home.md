@@ -2,7 +2,7 @@
 layout: project
 urltitle:  "Automated Reinforcement Learning (AutoRL)"
 title: "Automated Reinforcement Learning (AutoRL)"
-categories: workshop, iclr, autorl, reinforcement learning, automl, 2024
+categories: workshop, icml, autorl, reinforcement learning, automl, 2024
 permalink: /
 bibtex: true
 paper: true
@@ -11,9 +11,9 @@ acknowledgements: ""
 <br/>
 <div class="row reverse">
   <div class="col-xs-12 col-md-7">
-    <h1>Automated Reinforcement Learning (AutoRL)</h1>
+    <h1>Automated Reinforcement Learning: Exploring Meta-Learning, AutoML, and LLMs </h1>
     <br>
-    <h4>April, 2024 // ICLR Workshop</h4>
+    <h4>July, 2024 // ICML Workshop</h4>
     <br>
     <br>
     <p>
@@ -46,8 +46,8 @@ acknowledgements: ""
     <p> All times listed below are in Central European Summer Time (CEST).  </p> 
     <p>Other important links:</p>
      <ul>
-<!--               <li><b>GatherTown</b>: <a href="https:/iclr.cc">Link</a></li> -->
-              <li><b>Zoom</b>: <a href="https:/iclr.cc">Link</a></li>
+<!--               <li><b>GatherTown</b>: <a href="https:/icml.cc">Link</a></li> -->
+              <li><b>Zoom</b>: <a href="https:/icml.cc">Link</a></li>
     </ul>
   </div>
 </div>
@@ -167,7 +167,7 @@ acknowledgements: ""
 
 <div class="row" id="dates">
   <div class="col-xs-12">
-    <h2>Important Dates</h2>
+    <h2>Important Dates (currently all provisional)</h2>
   </div>
 </div>
 
@@ -177,28 +177,28 @@ acknowledgements: ""
     <table class="table table-striped">
       <tbody>
         <tr>
-          <td>Paper Submission Deadline</td>
-          <td>03.02.2024 AOE</td>
+          <td>Paper Submission Deadline</td> <!-- Neurips Main Conference Full Paper Submission Deadline	May 22 '24 08:00 PM UTC            -->
+          <td>23.05.2024 AOE</td>
         </tr>
         <tr>
           <td>Decision Notifications</td>
-          <td>03.03.2024</td>
+          <td>17.06.2024</td>
         </tr>
         <tr>
-          <td>Deadline for complimentary registration applications</td>
-          <td>10.03.2024</td>
+<!--          <td>Deadline for complimentary registration applications</td>
+          <td>10.03.2024</td>-->
         </tr>
         <tr>
-          <td>Camera Ready Paper Deadline & complimentary registration notifications</td>
-          <td>17.03.2024</td>
+          <td>Camera Ready Paper Deadline </td> <!--         & complimentary registration notifications -->
+          <td>1.07.2024</td>
         </tr>
         <tr>
           <td>Paper Video Submission Deadline</td>
-          <td>15.04.2024</td>
+          <td>8.07.2024</td>
         </tr>
         <tr>
           <td>Workshop</td>
-          <td>04.2024</td>
+          <td>26. or 27. 07.2024</td>
         </tr>
       </tbody>
     </table>
@@ -217,7 +217,7 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12">
     <p>
-      We invite both short (4 page) and long (8 page) anonymized submissions in the <a href="https://iclr.cc">ICLR LaTeX format</a> that develop algorithms, benchmarks, and ideas to allow reinforcement learning agents to learn more effectively by making self-supervised predictions about their environment. More concretely, we welcome submissions around, but not necessarily limited to, the following broad questions: 
+      We invite both short (4 page) and long (8 page) anonymized submissions in the <a href="https://icml.cc">ICML LaTeX format</a> that develop algorithms, benchmarks, and ideas to allow reinforcement learning agents to learn more effectively by making self-supervised predictions about their environment. More concretely, we welcome submissions around, but not necessarily limited to, the following broad questions: 
     </p>
     <p>
           <ul>
@@ -226,8 +226,25 @@ acknowledgements: ""
           </ul>
       </p>
       <p>We welcome review and positional papers that may foster discussions. 
-       Note that as per ICLR guidelines, we don't accept works previously published in other conferences on machine learning, but are open to works that are currently under submission to a conference (such as ICML 2024).</p>
-      
+       Note that as per ICML guidelines, we don't accept works previously published in other conferences on machine learning, but are open to works that are currently under submission to a conference (such as NeurIPS 2024).</p>
+      <p>
+        The workshop will focus on novel and unpublished work including, but not limited to, the areas of:
+        <ul>
+          <li>In-context reinforcement learning</li>
+          <li>Meta-reinforcement learning</li>
+          <li>RL algorithm discovery</li>
+          <li>Fairness &amp; interpretability via AutoRL</li>
+          <li>Curricula and open-endedness in RL</li>
+          <li>AutoML for reinforcement learning</li>
+          <li>Reinforcement learning for LLMs</li>
+          <li>NAS for deep reinforcement learning</li>
+          <li>Theoretical guarantees for AutoRL</li>
+          <li>Feature- &amp; Hyperparameter importance for RL algorithms</li>
+          <li>Demos of AutoRL systems</li>
+          <li>Hyperparameter agnostic RL algorithms</li>
+        </ul>
+
+      </p>      
       <p>
         Submissions should be uploaded on OpenReview: <a class="red" href="https://openreview.net/">AutoRL submission link</a>
       </p>
@@ -434,5 +451,5 @@ acknowledgements: ""
 </div>
 
 <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0)">
-    <h6>Website theme originally inspired from the <a href="https://github.com/vigilworkshop/vigilworkshop.github.io">VIGIL workshop</a>, stolen from the  the <a href="https://github.com/sslrlworkshop/sslrlworkshop.github.io">SSL-RL workshop</a>. </h6>
+    <h6>Website theme originally inspired from the <a href="https://github.com/vigilworkshop/vigilworkshop.github.io">VIGIL workshop</a>, stolen from the <a href="https://github.com/sslrlworkshop/sslrlworkshop.github.io">SSL-RL workshop</a>. </h6>
   </div>
