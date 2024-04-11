@@ -35,7 +35,7 @@ acknowledgements: ""
   <div class="col-md-1 hidden-xs">
   </div>
   <div class="col-xs-12 col-md-4">
-    <img class="cover" src="/static/img/cover.png">
+    <img class="cover" src="/static/img/fig_2_survey.png">
   </div>
 </div>
 
@@ -43,7 +43,10 @@ acknowledgements: ""
 
 <div class="row">
     <div class="col-xs-8">
-    <img src="/static/img/fig_2_survey.png">
+    <img src="/static/img/cover.png">
+    </div>
+    <div class="col-xs-8">
+    <img src="/static/img/fig_1_survey.png">
     </div>
 </div>
 
@@ -468,11 +471,11 @@ acknowledgements: ""
 
 <hr />
 
-<div class="row">
+<!--<div class="row">
     <div class="col-xs-8">
     <img src="/static/img/fig_1_survey.png">
     </div>
-</div>
+</div>-->
 
 
 <div class="row" id="accepted">
