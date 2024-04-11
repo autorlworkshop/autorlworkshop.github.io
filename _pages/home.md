@@ -45,9 +45,9 @@ acknowledgements: ""
     <div class="col-xs-8">
     <img src="/static/img/fig_2_survey.png">
     </div>
-    <div class="col-xs-8">
+<!--    <div class="col-xs-8">
     <img src="/static/img/fig_1_survey.png">
-    </div>
+    </div>-->
 </div>
 
 <br/>
@@ -471,11 +471,11 @@ acknowledgements: ""
 
 <hr />
 
-<!--<div class="row">
+<div class="row">
     <div class="col-xs-8">
     <img src="/static/img/fig_1_survey.png">
     </div>
-</div>-->
+</div>
 
 
 <div class="row" id="accepted">
