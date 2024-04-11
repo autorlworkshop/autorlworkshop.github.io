@@ -16,11 +16,6 @@ acknowledgements: ""
     <br>
     <h4>July, 2024 // ICML Workshop</h4>
     <br>
-<div class="row">
-    <div class="col-xs-8">
-    <img src="/static/img/fig_2_survey.png">
-    </div>
-    </div>
     <br>
     <p>
       The past few years has seen a surge of interest in reinforcement learning, , with breakthrough successes of applying RL in games, robotics, chemistry, logistics, nuclear fusion and more.
@@ -47,6 +42,9 @@ acknowledgements: ""
 <br/>
 
 <div class="row">
+    <div class="col-xs-8">
+    <img src="/static/img/fig_2_survey.png">
+    </div>
     <div class="col-xs-8">
     <img src="/static/img/fig_1_survey.png">
     </div>
