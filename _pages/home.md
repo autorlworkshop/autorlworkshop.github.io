@@ -477,6 +477,8 @@ acknowledgements: ""
     </div>
 </div>
 
+<br/>
+<br/>
 
 <div class="row" id="accepted">
   <div class="col-xs-12">
