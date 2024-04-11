@@ -10,16 +10,6 @@ acknowledgements: ""
 ---
 <br/>
 
-<div class="row">
-    <div class="col-xs-8">
-    <img src="/static/img/fig_1_survey.png">
-    </div>
-</div>
-
-    <img src="/static/img/fig_1_survey.png">
-
-<br/>
-
 <div class="row reverse">
   <div class="col-xs-12 col-md-7">
     <h1>Automated Reinforcement Learning: Exploring Meta-Learning, AutoML, and LLMs </h1>
@@ -47,6 +37,14 @@ acknowledgements: ""
   <div class="col-xs-12 col-md-4">
     <img class="cover" src="/static/img/cover.png">
   </div>
+</div>
+
+<br/>
+
+<div class="row">
+    <div class="col-xs-8">
+    <img src="/static/img/fig_2_survey.png">
+    </div>
 </div>
 
 <br/>
@@ -228,7 +226,42 @@ acknowledgements: ""
 
 <div class="row" id="cfp">
   <div class="col-xs-12">
-    <h2>Call for Papers</h2>
+  
+  <h2>Call for Papers</h2>
+
+<p>We invite <strong>both short</strong> (4 page) <strong>and long</strong> (9 page) anonymized submissions that develop algorithms, benchmarks, and ideas to allow reinforcement learning agents to learn more effectively out of the box. Submissions should be in the <a href="https://media.neurips.cc/Conferences/NeurIPS2024/Styles.zip">NeurIPS LaTeX format</a>. We also welcome review and positional papers that may foster discussions. Note that as per ICML guidelines, we don't accept works previously published in other conferences on machine learning, but are open to works that are currently under submission to a conference.</p>
+
+<p>The workshop will focus on novel and unpublished work including, but not limited to, the areas of:</p>
+
+<div style="column-count: 2;">
+<ul style="list-style-type: disc; padding-left: 20px;">
+    <li>LLMs for reinforcement learning</li>
+    <li>In-context reinforcement learning</li>
+    <li>Meta-reinforcement learning</li>
+    <li>RL algorithm discovery</li>
+    <li>Fairness &amp; interpretability via AutoRL</li>
+    <li>Curricula and open-endedness in RL</li>
+    <li>AutoML for reinforcement learning</li>
+    <li>Reinforcement learning for LLMs</li>
+    <li>NAS for deep reinforcement learning</li>
+    <li>Theoretical guarantees for AutoRL</li>
+    <li>Feature- &amp; Hyperparameter importance for RL algorithms</li>
+    <li>Demos of AutoRL systems</li>
+    <li>Hyperparameter agnostic RL algorithms</li>
+</ul>
+</div>
+
+<p>Papers should not exceed 9 pages in length, excluding references and appendices. All of these should be submitted in a <strong>single file</strong> via OpenReview (link TBA). The review process will be <strong>double blind</strong>. We will <strong>not have archival proceedings</strong>, but will share accepted papers on the workshop website. We encourage including code in papers, though we ask to anonymize the code along with the submission. Any paper that includes code will receive a <em>code badge</em> on the workshop website. We require a short summary video of at most 5 minutes for accepted papers. These will be uploaded to YouTube.</p>
+
+<h2>Key Dates</h2>
+<ul>
+    <li><strong>Paper submission deadline:</strong> 23.05.2024 AOE</li>
+    <li><strong>Decision notifications by:</strong> 17.06.2024</li>
+    <li><strong>Camera ready version due:</strong> 01.07.2024</li>
+    <li><strong>Video deadline:</strong> 08.07.2024</li>
+</ul>
+
+<!--    <h2>Call for Papers</h2>
   </div>
 </div>
 
@@ -272,7 +305,7 @@ acknowledgements: ""
       </p>
 
   </div>
-</div>
+</div>-->
 
 
 <br />
@@ -352,9 +385,9 @@ acknowledgements: ""
 
 <hr />
 
-<!
+<!--
 #TODO
---<div class="row" id="intro">
+<div class="row" id="intro">
     <div class="col-xs-12">
         <h2>Introduction</h2>
         <p>AutoRL promises to...</p>. 
@@ -435,6 +468,12 @@ acknowledgements: ""
 
 <hr />
 
+<div class="row">
+    <div class="col-xs-8">
+    <img src="/static/img/fig_1_survey.png">
+    </div>
+</div>
+
 
 <div class="row" id="accepted">
   <div class="col-xs-12">
@@ -471,11 +510,8 @@ acknowledgements: ""
   </div>
 </div>
 
-<div class="row">
-    <div class="col-xs-8">
-    <img src="/static/img/fig_1_survey.png">
-    </div>
-</div>
+
+
 
 <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0)">
     <h6>Website theme originally inspired from the <a href="https://github.com/vigilworkshop/vigilworkshop.github.io">VIGIL workshop</a>, stolen from the <a href="https://github.com/sslrlworkshop/sslrlworkshop.github.io">SSL-RL workshop</a>. </h6>
