@@ -9,6 +9,17 @@ paper: true
 acknowledgements: ""
 ---
 <br/>
+
+<div class="row">
+    <div class="col-xs-8">
+    <img src="/static/img/fig_1_survey.png">
+    </div>
+</div>
+
+    <img src="/static/img/fig_1_survey.png">
+
+<br/>
+
 <div class="row reverse">
   <div class="col-xs-12 col-md-7">
     <h1>Automated Reinforcement Learning: Exploring Meta-Learning, AutoML, and LLMs </h1>
@@ -20,7 +31,8 @@ acknowledgements: ""
       The past few years has seen a surge of interest in reinforcement learning, , with breakthrough successes of applying RL in games, robotics, chemistry, logistics, nuclear fusion and more.
       These headlines, however, blur the picture of what remains a brittle technology, with many successes relying on heavily engineered solutions.
       Indeed, several recent works have demonstrated that RL algorithms are brittle to seemingly mundane design choices . Thus, it is often a significant challenge to effectively apply RL in practice, especially on novel problems, limiting its potential impact and narrowing its accessibility. 
-
+    </p>
+    <p>
       In this workshop, we want to bring together different communities working on solving these problems. 
       A variety of distinct sub-communities spanning RL, Meta-Learning and AutoML have been working on making RL work ``out-of-the-box'' in arbitrary settings - this is the AutoRL setting. Recently, with the emergence of LLMs and their in-context learning abilities, they have significantly impacted all these communities. There are LLM agents tackling traditional RL tasks as well as few-shot RL agents increasing efficiency~ and generalization that are also trying to automate RL. LLMs have also been influencing AutoML directly with papers such as OptFormer . However, there is currently little crossover between these communities. As such, we want to create the space to connect them and cross-pollinate ideas automating RL. 
       We believe closer connections between these communities will ultimately lead to faster and more focused progress on AutoRL and an in-person workshop is the ideal way to allow for greater interaction between them.
@@ -340,7 +352,9 @@ acknowledgements: ""
 
 <hr />
 
-<div class="row" id="intro">
+<!
+#TODO
+--<div class="row" id="intro">
     <div class="col-xs-12">
         <h2>Introduction</h2>
         <p>AutoRL promises to...</p>. 
@@ -353,7 +367,7 @@ acknowledgements: ""
     </div>
 </div>
 
-<hr />
+<hr />-->
 
 
 <div class="row" id="organizers">
@@ -455,6 +469,12 @@ acknowledgements: ""
 
 </ol>
   </div>
+</div>
+
+<div class="row">
+    <div class="col-xs-8">
+    <img src="/static/img/fig_1_survey.png">
+    </div>
 </div>
 
 <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0)">
