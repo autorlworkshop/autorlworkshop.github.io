@@ -24,12 +24,15 @@ acknowledgements: ""
     </p>
     <p>
       In this workshop, we want to bring together different communities working on solving these problems. 
-      A variety of distinct sub-communities spanning RL, Meta-Learning and AutoML have been working on making RL work ``out-of-the-box'' in arbitrary settings - this is the AutoRL setting. Recently, with the emergence of LLMs and their in-context learning abilities, they have significantly impacted all these communities. There are LLM agents tackling traditional RL tasks as well as few-shot RL agents increasing efficiency~ and generalization that are also trying to automate RL. LLMs have also been influencing AutoML directly with papers such as OptFormer . However, there is currently little crossover between these communities. As such, we want to create the space to connect them and cross-pollinate ideas automating RL. 
+      A variety of distinct sub-communities spanning RL, Meta-Learning and AutoML have been working on making RL work <b>out-of-the-box</b> in arbitrary settings - this is the AutoRL setting. Recently, with the emergence of LLMs and their in-context learning abilities, they have significantly impacted all these communities. There are LLM agents tackling traditional RL tasks as well as few-shot RL agents increasing efficiency and generalization that are also trying to automate RL. LLMs have also been influencing AutoML directly with papers such as OptFormer . However, there is currently little crossover between these communities. As such, we want to create the space to connect them and cross-pollinate ideas automating RL. 
       We believe closer connections between these communities will ultimately lead to faster and more focused progress on AutoRL and an in-person workshop is the ideal way to allow for greater interaction between them.
       Through a mixture of diverse expert talks and opportunity for conversation, we hope to emphasize the many facets of current AutoRL approaches and where collaboration across fields is possible. 
     </p>
     <p>
     <p style="color:#c31;"><b>Update:</b></p> <b>The workshop has been accepted at ICML 2024 to be held in Vienna</b>. 
+       </p>
+    <p>
+    Contact: <a href="mailto:autorlworkshop@ai.uni-hannover.de">autorlworkshop@ai.uni-hannover.de</a>
        </p>
   </div>
   <div class="col-md-1 hidden-xs">
@@ -502,7 +505,10 @@ acknowledgements: ""
 
 <div class="row">
   <div class="col-xs-12">
-    <h2>References</h2>
+    <h2>Contact</h2>
+    <p>
+    <a href="mailto:autorlworkshop@ai.uni-hannover.de">autorlworkshop@ai.uni-hannover.de</a>
+       </p>
   </div>
 </div>
 <div class="row">
