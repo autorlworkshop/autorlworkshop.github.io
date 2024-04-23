@@ -70,7 +70,7 @@ acknowledgements: ""
     <p>Other important links:</p>
      <ul>
 <!--               <li><b>GatherTown</b>: <a href="https:/icml.cc">Link</a></li> -->
-              <li><b>Zoom</b>: <a href="https:/icml.cc">Link</a></li>
+<!--               <li><b>Zoom</b>: <a href="https://icml.cc/">Link TBA</a></li> -->
     </ul>
   </div>
 </div>
