@@ -493,7 +493,7 @@ acknowledgements: ""
 <div class="row">
 <div class="col-md-12">
     <br/>
-    <p> Camera-ready versions of all the papers will be available on <a href="https://openreview.net/group?id=ICML.cc/2024/Workshop/AutoRL/">OpenReview</a> </p>
+    <p> Camera-ready versions of all the papers will be available on <a href="https://openreview.net/group?id=ICML.cc/2024/Workshop/AutoRL">OpenReview</a> </p>
     </div>
   <div class="col-md-12">
     <ol>
