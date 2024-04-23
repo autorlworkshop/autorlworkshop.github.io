@@ -67,7 +67,7 @@ acknowledgements: ""
     <h2>Official schedule</h2>
     <br/>
     <p> All times listed below are in Central European Summer Time (CEST).  </p> 
-    <p>Other important links:</p>
+<!--     <p>Other important links:</p> -->
      <ul>
 <!--               <li><b>GatherTown</b>: <a href="https:/icml.cc">Link</a></li> -->
 <!--               <li><b>Zoom</b>: <a href="https://icml.cc/">Link TBA</a></li> -->
