@@ -257,7 +257,7 @@ acknowledgements: ""
 </ul>
 </div>
 
-<p>Papers should not exceed 9 pages in length, excluding references and appendices. All of these should be submitted in a <strong>single file</strong> via OpenReview (link TBA). The review process will be <strong>double blind</strong>. We will <strong>not have archival proceedings</strong>, but will share accepted papers on the workshop website. We encourage including code in papers, though we ask to anonymize the code along with the submission. Any paper that includes code will receive a <em>code badge</em> on the workshop website. We require a short summary video of at most 5 minutes for accepted papers. These will be uploaded to YouTube.</p>
+<p>Papers should not exceed 9 pages in length, excluding references and appendices. All of these should be submitted in a <strong>single file</strong> via <a href="https://openreview.net/group?id=ICML.cc/2024/Workshop/AutoRL">OpenReview</a>. The review process will be <strong>double blind</strong>. We will <strong>not have archival proceedings</strong>, but will share accepted papers on the workshop website. We encourage including code in papers, though we ask to anonymize the code along with the submission. Any paper that includes code will receive a <em>code badge</em> on the workshop website. We require a short summary video of at most 5 minutes for accepted papers. These will be uploaded to YouTube.</p>
 
 <p>If you are interested in reviewing for the workshop, please get in touch through <a href="https://forms.gle/w9keqWw5gkkoomWA9">this Google form</a>.</p>
 
@@ -493,7 +493,7 @@ acknowledgements: ""
 <div class="row">
 <div class="col-md-12">
     <br/>
-    <p> Camera-ready versions of all the papers will be available on <a href="https://openreview.net/"> OpenReview </a> </p>
+    <p> Camera-ready versions of all the papers will be available on <a href="https://openreview.net/group?id=ICML.cc/2024/Workshop/AutoRL/">OpenReview</a> </p>
     </div>
   <div class="col-md-12">
     <ol>
