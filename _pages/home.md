@@ -259,6 +259,8 @@ acknowledgements: ""
 
 <p>Papers should not exceed 9 pages in length, excluding references and appendices. All of these should be submitted in a <strong>single file</strong> via OpenReview (link TBA). The review process will be <strong>double blind</strong>. We will <strong>not have archival proceedings</strong>, but will share accepted papers on the workshop website. We encourage including code in papers, though we ask to anonymize the code along with the submission. Any paper that includes code will receive a <em>code badge</em> on the workshop website. We require a short summary video of at most 5 minutes for accepted papers. These will be uploaded to YouTube.</p>
 
+<p>If you are interested in reviewing for the workshop, please get in touch through this Google form: https://forms.gle/w9keqWw5gkkoomWA9</p>
+
 <h2>Key Dates</h2>
 <ul>
     <li><strong>Paper submission deadline:</strong> 23.05.2024 AOE</li>
