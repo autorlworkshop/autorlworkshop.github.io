@@ -472,6 +472,16 @@ acknowledgements: ""
       <h6>DeepMind</h6>
     </div>
   </div>
+
+  <div class="col-xs-6 col-lg-3 people">
+    <a href="https://www.linkedin.com/in/julian-dierkes-b8883820b/">
+      <img class="people-pic" src="{{ "/static/img/people/julian.png" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://www.linkedin.com/in/julian-dierkes-b8883820b/">Julian Dierkes</a>
+      <h6>RWTH Aachen University</h6>
+    </div>
+  </div>
 </div>
 
 <hr />
