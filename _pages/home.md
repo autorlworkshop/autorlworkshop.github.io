@@ -429,7 +429,7 @@ acknowledgements: ""
 
   <div class="col-xs-6 col-lg-3 people">
     <a href="https://ml.informatik.uni-freiburg.de/people/rajan/index.html">
-      <img class="people-pic" src="{{ "/static/img/people/raghu.jpeg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/static/img/people/raghu.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://ml.informatik.uni-freiburg.de/people/rajan/index.html">Raghu Rajan</a>
