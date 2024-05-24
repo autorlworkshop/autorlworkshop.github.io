@@ -201,7 +201,7 @@ acknowledgements: ""
       <tbody>
         <tr>
           <td>Paper Submission Deadline</td> <!-- Neurips Main Conference Full Paper Submission Deadline	May 22 '24 08:00 PM UTC            -->
-          <td>23.05.2024 AOE</td>
+          <td>31.05.2024 AOE</td>
         </tr>
         <tr>
           <td>Decision Notifications</td>
@@ -263,7 +263,7 @@ acknowledgements: ""
 
 <h2>Key Dates</h2>
 <ul>
-    <li><strong>Paper submission deadline:</strong> 23.05.2024 AOE</li>
+    <li><strong>Paper submission deadline:</strong> 31.05.2024 AOE</li>
     <li><strong>Decision notifications by:</strong> 17.06.2024</li>
     <li><strong>Camera ready version due:</strong> 01.07.2024</li>
     <li><strong>Video deadline:</strong> 08.07.2024</li>
