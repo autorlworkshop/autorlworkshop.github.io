@@ -499,6 +499,7 @@ acknowledgements: ""
 <div class="row" id="accepted">
   <div class="col-xs-12">
     <h2>Accepted papers</h2>
+    Accepted papers can be found <a href="https://openreview.net/group?id=ICML.cc/2024/Workshop/AutoRL&referrer=%5BHomepage%5D(%2F)#tab-accept">here</a>
   </div>
 </div>
 <div class="row">
