@@ -29,7 +29,7 @@ acknowledgements: ""
       Through a mixture of diverse expert talks and opportunity for conversation, we hope to emphasize the many facets of current AutoRL approaches and where collaboration across fields is possible. 
     </p>
     <p>
-    <p style="color:#c31;"><b>Update:</b></p> <b>The workshop has been accepted at ICML 2024 to be held in Vienna</b>. 
+    <p style="color:#c31;"><b>Update:</b></p> <b>The workshop has been accepted at ICML 2024 to be held in Vienna. Location: Schubert 1 - 3, Messe Wien Exhibition Congress Center</b>. 
        </p>
     <p>
     Contact: <a href="mailto:autorlworkshop@ai.uni-hannover.de">autorlworkshop@ai.uni-hannover.de</a>
@@ -221,7 +221,7 @@ acknowledgements: ""
         </tr>
         <tr>
           <td>Workshop</td>
-          <td>26. or 27. 07.2024</td>
+          <td>27.07.2024</td>
         </tr>
       </tbody>
     </table>
@@ -329,14 +329,14 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-6 col-lg-3 people">
     <a href="https://www.natolambert.com/">
-      <img class="people-pic" src="{{ "/static/img/people/nathan.png" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/static/img/people/jason.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="https://www.natolambert.com/">Nathan Lambert</a>
-      <h6>UC Berkeley</h6>
+      <a href="https://http://www.jaseweston.com/">Jason Weston</a>
+      <h6>Meta AI</h6>
     </div>
   </div>  
-    <div class="col-xs-6 col-lg-3 people">
+<!--    <div class="col-xs-6 col-lg-3 people">
     <a href="https://www.robots.ox.ac.uk/~xwan/">
       <img class="people-pic" src="{{ "/static/img/people/xingchen.jpg" | prepend:site.baseurl }}">
     </a>
@@ -344,7 +344,7 @@ acknowledgements: ""
       <a href="https://www.robots.ox.ac.uk/~xwan/">Xingchen Wan</a>
       <h6>University of Oxford</h6>
     </div>
-  </div>
+  </div>-->
   
   <div class="col-xs-6 col-lg-3 people">
     <a href="https://rraileanu.github.io/">
@@ -379,7 +379,7 @@ acknowledgements: ""
     </div>
   </div>
 
-  <div class="col-xs-6 col-lg-3 people">
+<!--  <div class="col-xs-6 col-lg-3 people">
     <a href="https://zhongwen.one/">
       <img class="people-pic" src="{{ "/static/img/people/zhongwen.jpeg" | prepend:site.baseurl }}">
     </a>
@@ -387,9 +387,10 @@ acknowledgements: ""
       <a href="https://zhongwen.one/">Zhongwen Xu</a>
       <h6>Sea AI Lab</h6>
     </div>
-  </div>
+  </div>-->
 </div>
 
+<b>More speakers to be announced soon.</b>
 
 <hr />
 
