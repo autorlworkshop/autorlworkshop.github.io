@@ -62,6 +62,33 @@ acknowledgements: ""
 
 </div>
 
+<div class="row" id="accepted">
+  <div class="col-xs-12">
+    <h2>Accepted papers</h2>
+    Accepted papers can be found <a href="https://openreview.net/group?id=ICML.cc/2024/Workshop/AutoRL&referrer=%5BHomepage%5D(%2F)#tab-accept">here</a>. Camera-ready versions of all the papers will soon be available on <a href="https://openreview.net/group?id=ICML.cc/2024/Workshop/AutoRL">OpenReview</a>. We also want to highlight three excellent Spotlight Papers:
+  </div>
+</div>
+<div class="row">
+  <div class="col-xs-12">
+    <h4><a href="https://openreview.net/forum?id=623QP3J4SK">Can Learned Optimization Make Reinforcement Learning Less Difficult?</a></h4>
+    Alexander D. Goldie, Chris Lu, Matthew Thomas Jackson, Shimon Whiteson, Jakob Nicolaus Foerster
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-xs-12">
+    <h4><a href="https://openreview.net/forum?id=ShXsJ1EGWK">BOFormer: Learning to Solve Multi-Objective Bayesian Optimization via Non-Markovian RL</a></h4>
+    Yu Heng Hung, Kai-Jie Lin, Yu-Heng Lin, Chien-Yi Wang, Ping-Chun Hsieh
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-xs-12">
+    <h4><a href="https://openreview.net/forum?id=W4vHmhn0xd">Self-Exploring Language Models: Active Preference Elicitation for Online Alignment</a></h4>
+    Shenao Zhang, Donghan Yu, Hiteshi Sharma, Ziyi Yang, Shuohang Wang, Hany Hassan Awadalla, Zhaoran Wang
+  </div>
+</div>
+
 <div class="row" id="schedule">
   <div class="col-xs-12">
     <h2>Official schedule</h2>
@@ -495,27 +522,6 @@ acknowledgements: ""
 
 <br/>
 <br/>
-
-<div class="row" id="accepted">
-  <div class="col-xs-12">
-    <h2>Accepted papers</h2>
-    Accepted papers can be found <a href="https://openreview.net/group?id=ICML.cc/2024/Workshop/AutoRL&referrer=%5BHomepage%5D(%2F)#tab-accept">here</a>
-  </div>
-</div>
-<div class="row">
-<div class="col-md-12">
-    <br/>
-    <p> Camera-ready versions of all the papers will be available on <a href="https://openreview.net/group?id=ICML.cc/2024/Workshop/AutoRL">OpenReview</a> </p>
-    </div>
-  <div class="col-md-12">
-    <ol>
-
-
-</ol>
-  </div>
-</div>
-
-
 
 <div class="row">
   <div class="col-xs-12">
