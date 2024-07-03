@@ -136,7 +136,7 @@ acknowledgements: ""
         <tr>
           <td>10:00 - 11:00 AM</td>
           <td>
-            Poster Session 1
+            Poster Session
           </td>
         </tr>
         <tr>
@@ -189,7 +189,6 @@ acknowledgements: ""
           <td>3:30 - 4:00 PM</td>
           <td>
             Coffee Break <br/>
-            <i> X </i>
           </td>
         </tr>
         <tr>
