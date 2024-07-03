@@ -355,7 +355,7 @@ acknowledgements: ""
 </div>
 <div class="row">
   <div class="col-xs-6 col-lg-3 people">
-    <a href="https://www.natolambert.com/">
+    <a href="https://ai.meta.com/people/1163645124801199/jason-weston/">
       <img class="people-pic" src="{{ "/static/img/people/jason.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
