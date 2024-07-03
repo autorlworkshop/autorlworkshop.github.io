@@ -355,12 +355,12 @@ acknowledgements: ""
 </div>
 <div class="row">
   <div class="col-xs-6 col-lg-3 people">
-    <a href="https://www.natolambert.com/">
-      <img class="people-pic" src="{{ "/static/img/people/jason.jpg" | prepend:site.baseurl }}">
+    <a href="https://psc-g.github.io/">
+      <img class="people-pic" src="{{ "/static/img/people/pablo.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="https://http://www.jaseweston.com/">Jason Weston</a>
-      <h6>Meta AI</h6>
+      <a href="https://psc-g.github.io/">Pablo Samuel Castro</a>
+      <h6>DeepMind, Université de Montréal and MILA</h6>
     </div>
   </div>  
 <!--    <div class="col-xs-6 col-lg-3 people">
