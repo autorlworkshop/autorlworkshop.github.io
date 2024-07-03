@@ -106,12 +106,12 @@ acknowledgements: ""
   <div class="col-xs-12">
     <table class="table table-striped">
       <tbody>
-        <tr>
+<!--        <tr>
           <td>8:30 - 9:00 AM</td>
           <td>
             Coffee
           </td>
-        </tr>
+        </tr>-->
         <tr>
           <td>9:00 - 9:30 AM</td>
           <td>
@@ -176,18 +176,11 @@ acknowledgements: ""
         <tr>
           <td>2:30 - 2:45 PM</td>
           <td>
-            Contributed Talk 2: <br/>
-            <i> X </i>
-          </td>
-        </tr>
-        <tr>
-          <td>2:45 - 3:00 PM</td>
-          <td>
             Contributed Talk 3: 
           </td>
         </tr>
         <tr>
-          <td>3:00 - 3:30 PM</td>
+          <td>2:45 - 3:15 PM</td>
           <td>
             Invited talk 5:
           </td>
