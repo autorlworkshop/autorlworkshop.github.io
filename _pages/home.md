@@ -29,7 +29,7 @@ acknowledgements: ""
       Through a mixture of diverse expert talks and opportunity for conversation, we hope to emphasize the many facets of current AutoRL approaches and where collaboration across fields is possible. 
     </p>
     <p>
-    <p style="color:#c31;"><b>Update:</b></p> <b>The workshop has been accepted at ICML 2024 to be held in Vienna. Location: Schubert 1 - 3, Messe Wien Exhibition Congress Center</b>. 
+    <p style="color:#c31;"><b>Update:</b></p> <b>The workshop has been accepted at ICML 2024 to be held in Vienna. Location: Stolz 0, Messe Wien Exhibition Congress Center. Date: 27 July 2024</b>. 
        </p>
     <p>
     Contact: <a href="mailto:autorlworkshop@ai.uni-hannover.de">autorlworkshop@ai.uni-hannover.de</a>
@@ -107,107 +107,101 @@ acknowledgements: ""
     <table class="table table-striped">
       <tbody>
         <tr>
-          <td>8:45 - 9:00 AM</td>
+          <td>8:30 - 9:00 AM</td>
           <td>
-            Coffee & Opening
+            Coffee
           </td>
         </tr>
         <tr>
           <td>9:00 - 9:30 AM</td>
           <td>
-            Invited talk:  <br/>
+            Invited talk 1:  <br/>
             <i> X </i>
           </td>
         </tr>
         <tr>
           <td>9:30 - 9:45 AM</td>
           <td>
-            Contributed talk:  <br/>
+            Contributed talk 1:  <br/>
             <i> X </i>
           </td>
         </tr>
         <tr>
           <td>9:45 - 10:00 AM</td>
           <td>
-            Coffee Break <br/>
+            Contributed talk 2: <br/>
             <i> X, Y </i>
           </td>
         </tr>
         <tr>
           <td>10:00 - 11:00 AM</td>
           <td>
-            Poster Session 
+            Poster Session 1
           </td>
         </tr>
         <tr>
           <td>11:00 - 11:30 AM</td>
           <td>
-            Invited Talk: <br/>
+            Invited Talk 2: <br/>
             <i> X </i>
           </td>
         </tr>
         <tr>
           <td>11:30 - 12:00 PM</td>
           <td>
-            Invited Talk: <br/>
+            Invited Talk 3: <br/>
             <i> X </i>
           </td>
         </tr>
         <tr>
-          <td>12:00 - 1:30 PM</td>
+          <td>12:00 - 12:30 PM</td>
+          <td>
+            Breakout Session <br/>
+            <i> X </i>
+          </td>
+        </tr>
+        <tr>
+          <td>12:30 - 2:00 PM</td>
           <td>
             Lunch Break
           </td>
         </tr>
         <tr>
-          <td>1:30 - 2:00 PM</td>
-          <td>
-            Invited talk: X <br/>
-            <i> X </i>
-          </td>
-        </tr>
-        <tr>
           <td>2:00 - 2:30 PM</td>
           <td>
-            Invited talk: X <br/>
+            Invited talk 4: <br/>
             <i> X </i>
           </td>
         </tr>
         <tr>
           <td>2:30 - 2:45 PM</td>
           <td>
-            Contributed Talk: <br/>
+            Contributed Talk 2: <br/>
             <i> X </i>
           </td>
         </tr>
         <tr>
-          <td>2:45 - 3:15 PM</td>
+          <td>2:45 - 3:00 PM</td>
           <td>
-            Breakout Session
+            Contributed Talk 3: 
           </td>
         </tr>
         <tr>
-          <td>3:15 - 3:30 PM</td>
+          <td>3:00 - 3:30 PM</td>
           <td>
-            Coffee Break
+            Invited talk 5:
           </td>
         </tr>
         <tr>
           <td>3:30 - 4:00 PM</td>
           <td>
-            Invited Talk: <br/>
+            Coffee Break <br/>
             <i> X </i>
           </td>
         </tr>
         <tr>
           <td>4:00 - 5:00 PM</td>
-          <td> Panel Discussion </td>
-        </tr>
-        <tr>
-          <td>5PM</td>
-          <td>
-            Closing Remarks
-          </td>
+          <td> Panel Discussion & Closing Remarks </td>
         </tr>
       </tbody>
     </table>
