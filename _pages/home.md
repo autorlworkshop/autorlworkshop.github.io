@@ -115,22 +115,22 @@ acknowledgements: ""
         <tr>
           <td>9:00 - 9:30 AM</td>
           <td>
-            Invited talk 1:  <br/>
-            <i> X </i>
+            Invited talk 1: tba <br/>
+            <i> Chelsea Finn </i>
           </td>
         </tr>
         <tr>
           <td>9:30 - 9:45 AM</td>
           <td>
-            Contributed talk 1:  <br/>
-            <i> X </i>
+            Contributed talk 1: Self-Exploring Language Models: Active Preference Elicitation for Online Alignment <br/>
+            <i> Shenao Zhang </i>
           </td>
         </tr>
         <tr>
           <td>9:45 - 10:00 AM</td>
           <td>
-            Contributed talk 2: <br/>
-            <i> X, Y </i>
+            Contributed talk 2: BOFormer: Learning to Solve Multi-Objective Bayesian Optimization via Non-Markovian RL<br/>
+            <i> Yu-Heng Hung and Ping-Chun Hsieh </i>
           </td>
         </tr>
         <tr>
@@ -142,15 +142,15 @@ acknowledgements: ""
         <tr>
           <td>11:00 - 11:30 AM</td>
           <td>
-            Invited Talk 2: <br/>
-            <i> X </i>
+            Invited Talk 2: tba<br/>
+            <i> Roberta Raileanu </i>
           </td>
         </tr>
         <tr>
           <td>11:30 - 12:00 PM</td>
           <td>
-            Invited Talk 3: <br/>
-            <i> X </i>
+            Invited Talk 3: AI-Assisted Agent Design with Large Language Models and Reinforcement Learning<br/>
+            <i> Pierluca D'Oro </i>
           </td>
         </tr>
         <tr>
@@ -169,20 +169,22 @@ acknowledgements: ""
         <tr>
           <td>2:00 - 2:30 PM</td>
           <td>
-            Invited talk 4: <br/>
-            <i> X </i>
+            Invited talk 4: Genie: Generative Interactive Environments<br/>
+            <i> Jack Parker-Holder </i>
           </td>
         </tr>
         <tr>
           <td>2:30 - 2:45 PM</td>
           <td>
-            Contributed Talk 3: 
+            Contributed Talk 3: Can Learned Optimization Make Reinforcement Learning Less Difficult?<br/>
+            <i> Alexander D. Goldie </i>
           </td>
         </tr>
         <tr>
           <td>2:45 - 3:15 PM</td>
           <td>
-            Invited talk 5:
+            Invited talk 5: In defense of Atari: The ALE as a benchmark for AutoRL<br>
+            <i> Pablo Samuel Castro </i>
           </td>
         </tr>
         <tr>
@@ -193,7 +195,9 @@ acknowledgements: ""
         </tr>
         <tr>
           <td>4:00 - 5:00 PM</td>
-          <td> Panel Discussion & Closing Remarks </td>
+          <td> Panel Discussion & Closing Remarks<br>
+            <i> Pablo Samuel Castro, Risto Vuorio, Doina Precup, more to be announced.</i> 
+            </td>
         </tr>
       </tbody>
     </table>
@@ -346,18 +350,18 @@ acknowledgements: ""
     </a>
     <div class="people-name">
       <a href="https://psc-g.github.io/">Pablo Samuel Castro</a>
-      <h6>DeepMind, Université de Montréal and MILA</h6>
+      <h6>DeepMind, Université de Montréal and Mila</h6>
     </div>
-  </div>  
-<!--    <div class="col-xs-6 col-lg-3 people">
-    <a href="https://www.robots.ox.ac.uk/~xwan/">
-      <img class="people-pic" src="{{ "/static/img/people/xingchen.jpg" | prepend:site.baseurl }}">
+  </div>
+    <div class="col-xs-6 col-lg-3 people">
+    <a href="https://proceduralia.github.io/">
+      <img class="people-pic" src="{{ "/static/img/people/pierluca.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="https://www.robots.ox.ac.uk/~xwan/">Xingchen Wan</a>
-      <h6>University of Oxford</h6>
+      <a href="https://proceduralia.github.io/">Pierluca D'Oro</a>
+      <h6>Mila, Meta</h6>
     </div>
-  </div>-->
+  </div>
   
   <div class="col-xs-6 col-lg-3 people">
     <a href="https://rraileanu.github.io/">
@@ -402,8 +406,6 @@ acknowledgements: ""
     </div>
   </div>-->
 </div>
-
-<b>More speakers to be announced soon.</b>
 
 <hr />
 
