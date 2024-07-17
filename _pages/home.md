@@ -360,7 +360,7 @@ acknowledgements: ""
     </a>
     <div class="people-name">
       <a href="https://jparkerholder.github.io">Jack Parker-Holder</a>
-      <h6>DeepMind</h6>
+      <h6>DeepMind, University College London</h6>
     </div>
   </div>
 
@@ -380,7 +380,7 @@ acknowledgements: ""
     </a>
     <div class="people-name">
       <a href="https://rraileanu.github.io/">Roberta Raileanu</a>
-      <h6>New York University</h6>
+      <h6>Meta</h6>
     </div>
   </div>
 
@@ -395,12 +395,12 @@ acknowledgements: ""
   </div>
 
   <div class="col-xs-6 col-lg-3 people">
-<!--    <a href="https://ai.stanford.edu/~cbfinn/">
-      <img class="people-pic" src="{{ "/static/img/people/chelsea.jpg" | prepend:site.baseurl }}">
-    </a>-->
+    <a href="">
+<!--       <img class="people-pic" src="{{ "/static/img/people/chelsea.jpg" | prepend:site.baseurl }}"> -->
+    </a>
     <div class="people-name">
-<!--      <a href="https://ai.stanford.edu/~cbfinn/">Chelsea Finn</a>
-      <h6>Stanford University</h6>-->
+      <a href="https://autorlworkshop.github.io/#accepted"></a>
+      <h6></h6>
     </div>
   </div>
 
