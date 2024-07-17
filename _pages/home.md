@@ -142,7 +142,7 @@ acknowledgements: ""
         <tr>
           <td>11:00 - 11:30 AM</td>
           <td>
-            Invited Talk 2: tba<br/>
+            Invited Talk 2: Learning to Solve New sequential decision-making Tasks with In-Context Learning + work on generalization in offline RL<br/>
             <i> Roberta Raileanu </i>
           </td>
         </tr>
@@ -196,7 +196,7 @@ acknowledgements: ""
         <tr>
           <td>4:00 - 5:00 PM</td>
           <td> Panel Discussion & Closing Remarks<br>
-            <i> Pablo Samuel Castro, Risto Vuorio, Doina Precup, more to be announced.</i> 
+            <i> Pablo Samuel Castro, Jacob Beck, Doina Precup, more to be announced.</i> 
             </td>
         </tr>
       </tbody>
@@ -353,7 +353,18 @@ acknowledgements: ""
       <h6>DeepMind, Université de Montréal and Mila</h6>
     </div>
   </div>
-    <div class="col-xs-6 col-lg-3 people">
+
+  <div class="col-xs-6 col-lg-3 people">
+    <a href="https://jparkerholder.github.io">
+      <img class="people-pic" src="{{ "/static/img/people/jack.jpeg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://jparkerholder.github.io">Jack Parker-Holder</a>
+      <h6>DeepMind</h6>
+    </div>
+  </div>
+
+  <div class="col-xs-6 col-lg-3 people">
     <a href="https://proceduralia.github.io/">
       <img class="people-pic" src="{{ "/static/img/people/pierluca.jpg" | prepend:site.baseurl }}">
     </a>
@@ -385,16 +396,6 @@ acknowledgements: ""
 
 <!--  <div class="col-xs-6 col-lg-3 people">    
   </div>-->
-
-  <div class="col-xs-6 col-lg-3 people">
-    <a href="https://jparkerholder.github.io">
-      <img class="people-pic" src="{{ "/static/img/people/jack.jpeg" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="https://jparkerholder.github.io">Jack Parker-Holder</a>
-      <h6>DeepMind</h6>
-    </div>
-  </div>
 
 <!--  <div class="col-xs-6 col-lg-3 people">
     <a href="https://zhongwen.one/">
