@@ -394,7 +394,7 @@ acknowledgements: ""
     </div>
   </div>
 
-  <div class="col-xs-6 col-lg-3 people">
+<!--  <div class="col-xs-6 col-lg-3 people">
     <a href="">
       <img class="people-pic" src="{{ "/static/img/people/blank.jpg" | prepend:site.baseurl }}"> 
     </a>
@@ -402,7 +402,7 @@ acknowledgements: ""
       <a href="https://autorlworkshop.github.io/#accepted">Spotlight papers' speakers</a>
       <h6></h6>
     </div>
-  </div>
+  </div>-->
 
 <!--  <div class="col-xs-6 col-lg-3 people">    
   </div>-->
