@@ -394,15 +394,15 @@ acknowledgements: ""
     </div>
   </div>
 
-<!--  <div class="col-xs-6 col-lg-3 people">
+  <div class="col-xs-6 col-lg-3 people">
     <a href="">
-       <img class="people-pic" src="{{ "/static/img/people/chelsea.jpg" | prepend:site.baseurl }}"> 
+      <img class="people-pic" src="{{ "/static/img/people/blank.jpg" | prepend:site.baseurl }}"> 
     </a>
     <div class="people-name">
-      <a href="https://autorlworkshop.github.io/#accepted"></a>
+      <a href="https://autorlworkshop.github.io/#accepted">Spotlight papers' speakers</a>
       <h6></h6>
     </div>
-  </div>-->
+  </div>
 
 <!--  <div class="col-xs-6 col-lg-3 people">    
   </div>-->
@@ -444,7 +444,7 @@ acknowledgements: ""
   </div>
 </div>
 <div class="row">
-  <div class="col-xs-8 col-lg-3 people">
+  <div class="col-xs-6 col-lg-3 people">
     <a href="https://www.ai.uni-hannover.de/de/institut/team/eimer/">
       <img class="people-pic" src="{{ "/static/img/people/theresa.png" | prepend:site.baseurl }}">
     </a>
@@ -454,7 +454,7 @@ acknowledgements: ""
     </div>
   </div>
 
-  <div class="col-xs-8 col-lg-3 people">
+  <div class="col-xs-6 col-lg-3 people">
     <a href="https://ml.informatik.uni-freiburg.de/people/rajan/index.html">
       <img class="people-pic" src="{{ "/static/img/people/raghu.png" | prepend:site.baseurl }}">
     </a>
@@ -464,7 +464,7 @@ acknowledgements: ""
     </div>
   </div>
 
-  <div class="col-xs-8 col-lg-3 people">
+  <div class="col-xs-6 col-lg-3 people">
     <a href="https://andrebiedenkapp.github.io/">
       <img class="people-pic" src="{{ "/static/img/people/andre.png" | prepend:site.baseurl }}">
     </a>
@@ -480,7 +480,7 @@ acknowledgements: ""
   <div class="col-xs-6 col-lg-3 people">
   </div>-->
 
-  <div class="col-xs-8 col-lg-3 people">
+  <div class="col-xs-6 col-lg-3 people">
     <a href="http://vu-nguyen.org/">
       <img class="people-pic" src="{{ "/static/img/people/vu.png" | prepend:site.baseurl }}">
     </a>
@@ -490,7 +490,7 @@ acknowledgements: ""
     </div>
   </div>
   
-  <div class="col-xs-8 col-lg-3 people">
+  <div class="col-xs-6 col-lg-3 people">
     <a href="https://www.afaust.info/">
       <img class="people-pic" src="{{ "/static/img/people/aleksandra.png" | prepend:site.baseurl }}">
     </a>
@@ -500,7 +500,7 @@ acknowledgements: ""
     </div>
   </div>
 
-  <div class="col-xs-8 col-lg-3 people">
+  <div class="col-xs-6 col-lg-3 people">
     <a href="https://www.linkedin.com/in/julian-dierkes-b8883820b/">
       <img class="people-pic" src="{{ "/static/img/people/julian.png" | prepend:site.baseurl }}">
     </a>
