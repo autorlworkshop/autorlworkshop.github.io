@@ -169,8 +169,8 @@ acknowledgements: ""
         <tr>
           <td>2:00 - 2:30 PM</td>
           <td>
-            Invited talk 4: Genie: Generative Interactive Environments<br/>
-            <i> Jack Parker-Holder </i>
+            Invited talk 4:<br/>
+            <i> Michael Dennis </i>
           </td>
         </tr>
         <tr>
@@ -196,7 +196,7 @@ acknowledgements: ""
         <tr>
           <td>4:00 - 5:00 PM</td>
           <td> Panel Discussion & Closing Remarks<br>
-            <i> Pablo Samuel Castro, Jacob Beck, Doina Precup, more to be announced.</i> 
+            <i> Pablo Samuel Castro, Jacob Beck, Doina Precup, Alexander D. Goldie.</i> 
             </td>
         </tr>
       </tbody>
@@ -355,12 +355,12 @@ acknowledgements: ""
   </div>
 
   <div class="col-xs-6 col-lg-3 people">
-    <a href="https://jparkerholder.github.io">
-      <img class="people-pic" src="{{ "/static/img/people/jack.jpeg" | prepend:site.baseurl }}">
+    <a href="https://www.michaeldennis.ai/">
+      <img class="people-pic" src="{{ "/static/img/people/michael.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="https://jparkerholder.github.io">Jack Parker-Holder</a>
-      <h6>DeepMind, University College London</h6>
+      <a href="https://www.michaeldennis.ai/">Michael Dennis</a>
+      <h6>DeepMind</h6>
     </div>
   </div>
 
@@ -436,6 +436,54 @@ acknowledgements: ""
 </div>
 
 <hr />-->
+
+
+<div class="row" id="panel_discussion">
+  <div class="col-xs-12">
+    <h2>Panel Discussion</h2>
+  </div>
+</div>
+<div class="row">
+  <div class="col-xs-6 col-lg-3 people">
+    <a href="https://psc-g.github.io/">
+      <img class="people-pic" src="{{ "/static/img/people/pablo.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://psc-g.github.io/">Pablo Samuel Castro</a>
+      <h6>DeepMind, Université de Montréal and Mila</h6>
+    </div>
+  </div>
+
+  <div class="col-xs-6 col-lg-3 people">
+    <a href="https://mila.quebec/en/doina-precup">
+      <img class="people-pic" src="{{ "/static/img/people/doina.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://mila.quebec/en/doina-precup">Doina Precup</a>
+      <h6>McGill University, DeepMind</h6>
+    </div>
+  </div>
+  
+  <div class="col-xs-6 col-lg-3 people">
+    <a href="https://www.jakebeck.com/">
+      <img class="people-pic" src="{{ "/static/img/people/jacob.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://www.jakebeck.com/">Jacob Beck</a>
+      <h6>University of Oxford</h6>
+    </div>
+  </div>
+
+  <div class="col-xs-6 col-lg-3 people">
+    <a href="https://scholar.google.com/citations?user=wogOjBsAAAAJ&hl=en">
+      <img class="people-pic" src="{{ "/static/img/people/alexander.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://scholar.google.com/citations?user=wogOjBsAAAAJ&hl=en">Alexander D. Goldie</a>
+      <h6>University of Oxford</h6>
+    </div>
+  </div>
+
 
 
 <div class="row" id="organizers">
