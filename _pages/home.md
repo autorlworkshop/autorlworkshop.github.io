@@ -383,7 +383,10 @@ acknowledgements: ""
       <h6>Meta</h6>
     </div>
   </div>
+</div>
 
+  
+<div class="row">
   <div class="col-xs-6 col-lg-3 people">
     <a href="https://ai.stanford.edu/~cbfinn/">
       <img class="people-pic" src="{{ "/static/img/people/chelsea.jpg" | prepend:site.baseurl }}">
@@ -484,6 +487,9 @@ acknowledgements: ""
     </div>
   </div>
 
+</div>
+
+<hr />
 
 
 <div class="row" id="organizers">
