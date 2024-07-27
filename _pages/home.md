@@ -49,7 +49,7 @@ acknowledgements: ""
 
 <div class="row">
     <div class="col-xs-8">
-    <img src="/static/img/people/AutoRL_workshop_slido_qr_code.png">
+    <img src="/static/img/people/AutoRL_workshop_slido_qr_code.png" height=400 width=400>
     </div>
     <div class="col-xs-8">
     <img src="/static/img/fig_2_survey.png">
