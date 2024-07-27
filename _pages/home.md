@@ -199,7 +199,7 @@ acknowledgements: ""
         <tr>
           <td>4:00 - 5:00 PM</td>
           <td> Panel Discussion & Closing Remarks<br>
-            <i> Pablo Samuel Castro, Jacob Beck, Doina Precup, Alexander D. Goldie.</i> 
+            <i> Pablo Samuel Castro, Jacob Beck, Xingyou (Richard) Song, Alexander D. Goldie.</i> 
             </td>
         </tr>
       </tbody>
@@ -461,12 +461,12 @@ acknowledgements: ""
   </div>
 
   <div class="col-xs-6 col-lg-3 people">
-    <a href="https://mila.quebec/en/doina-precup">
-      <img class="people-pic" src="{{ "/static/img/people/doina.jpg" | prepend:site.baseurl }}">
+    <a href="https://xingyousong.github.io/">
+      <img class="people-pic" src="{{ "/static/img/people/xingyou.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="https://mila.quebec/en/doina-precup">Doina Precup</a>
-      <h6>McGill University, DeepMind</h6>
+      <a href="https://xingyousong.github.io/">Xingyou (Richard) Song</a>
+      <h6>DeepMind</h6>
     </div>
   </div>
   
