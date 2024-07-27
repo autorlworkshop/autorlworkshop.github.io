@@ -34,6 +34,9 @@ acknowledgements: ""
     <p>
     Contact: <a href="mailto:autorlworkshop@ai.uni-hannover.de">autorlworkshop@ai.uni-hannover.de</a>
        </p>
+    <p>
+    <a href="https://app.sli.do/event/5f3vjJ61fpXpa8eBE49QUu">Ask questions for the panel discussion</a>
+       </p>
   </div>
   <div class="col-md-1 hidden-xs">
   </div>
@@ -46,10 +49,10 @@ acknowledgements: ""
 
 <div class="row">
     <div class="col-xs-8">
-    <img src="/static/img/fig_2_survey.png">
+    <img src="/static/img/people/AutoRL_workshop_slido_qr_code.png">
     </div>
     <div class="col-xs-8">
-    <img src="/static/img/AutoRL_workshop_slido_qr_code.png">
+    <img src="/static/img/fig_2_survey.png">
     </div>
 </div>
 
