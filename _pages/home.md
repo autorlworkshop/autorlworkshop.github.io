@@ -48,9 +48,9 @@ acknowledgements: ""
     <div class="col-xs-8">
     <img src="/static/img/fig_2_survey.png">
     </div>
-<!--    <div class="col-xs-8">
-    <img src="/static/img/fig_1_survey.png">
-    </div>-->
+    <div class="col-xs-8">
+    <img src="/static/img/AutoRL_workshop_slido_qr_code.png">
+    </div>
 </div>
 
 <br/>
